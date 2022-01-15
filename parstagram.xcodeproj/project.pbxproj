@@ -22,6 +22,7 @@
 		EE0E219B27886EC30034E357 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0E219A27886EC30034E357 /* LoginViewController.swift */; };
 		EE0E219D27886ED10034E357 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0E219C27886ED10034E357 /* FeedViewController.swift */; };
 		EE0E219F2788754C0034E357 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0E219E2788754C0034E357 /* CameraViewController.swift */; };
+		EED588C627927F5100EDA6E4 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EED588C527927F5100EDA6E4 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		EE0E219A27886EC30034E357 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		EE0E219C27886ED10034E357 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		EE0E219E2788754C0034E357 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
+		EED588C527927F5100EDA6E4 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 				EE0E219C27886ED10034E357 /* FeedViewController.swift */,
 				EE00834727886BBB000F437C /* SceneDelegate.swift */,
 				EE00834B27886BBB000F437C /* Main.storyboard */,
+				EED588C527927F5100EDA6E4 /* CommentCell.swift */,
 				EE00834E27886BBC000F437C /* Assets.xcassets */,
 				EE00835027886BBC000F437C /* LaunchScreen.storyboard */,
 				EE08ED8A2788828800025DBA /* PostCell.swift */,
@@ -421,6 +424,7 @@
 				EE0E219D27886ED10034E357 /* FeedViewController.swift in Sources */,
 				EE00834827886BBB000F437C /* SceneDelegate.swift in Sources */,
 				EE08ED8B2788828800025DBA /* PostCell.swift in Sources */,
+				EED588C627927F5100EDA6E4 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
