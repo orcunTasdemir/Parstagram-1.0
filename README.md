@@ -1,5 +1,4 @@
-# Parstagram - Part II
-
+# Parstagram
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
 ## User Stories
@@ -12,4 +11,4 @@ This is an Instagram clone with a custom Parse backend that allows a user to pos
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src="gif_2.gif?raw=true" title='Video Walkthrough #2' width="250px" alt='Video Walkthrough' />
+<img src="gif_2.gif?raw=true" title='Video Walkthrough #2' width="250px" alt='Video Walkthrough' align="right" />
